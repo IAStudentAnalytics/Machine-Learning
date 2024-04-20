@@ -13,6 +13,6 @@ Welcome to the Machine Learning Models repository for AI Student Analysis! This 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/machine-learning-models.git
-   cd machine-learning-models
+   git clone https://github.com/IAStudentAnalytics/Machine-Learning.git
+   cd Machine-Learning
    ```
